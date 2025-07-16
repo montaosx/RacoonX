@@ -19,7 +19,6 @@ chmod +x modules/network.sh
 chmod +x modules/domain_osint.sh
 chmod +x modules/personal_osint.sh
 chmod +x modules/ssh_BruteForce.sh
-chmod +x modules/install_tools.sh
 
 mostrar_banner
 
