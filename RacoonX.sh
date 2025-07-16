@@ -20,7 +20,6 @@ chmod +x modules/domain_osint.sh
 chmod +x modules/personal_osint.sh
 chmod +x modules/ssh_BruteForce.sh
 chmod +x modules/install_tools.sh
-chmod +x modules/web_Fuzzing.sh
 
 mostrar_banner
 ./modules/install_tools.sh
