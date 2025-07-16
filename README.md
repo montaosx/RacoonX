@@ -23,9 +23,10 @@
 
 ---
 
-## 🚀 Instalación
+## 🚀 Instalación y ejecución
 
 ```bash
 git clone https://github.com/montaosx/RacoonX.git
 cd RacoonX
 chmod +x racoonx.sh
+./RacoonX.sh
