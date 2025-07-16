@@ -22,7 +22,6 @@ chmod +x modules/ssh_BruteForce.sh
 chmod +x modules/install_tools.sh
 
 mostrar_banner
-./modules/install_tools.sh
 
 echo -e "\n\n${AZUL}[+]${RESET} ${LAVANDA}Seleccione el tipo de actividad que desea realizar${RESET}\n"
 echo -e "  ${LAVANDA}1)${RESET} ${AMARILLO}Auditoría a una determinada red${RESET}"
