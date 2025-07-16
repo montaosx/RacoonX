@@ -1,6 +1,6 @@
 # 🦝 RacoonX
 
-**RacoonX** es una herramienta ofensiva escrita en **Bash** diseñada para automatizar tareas de reconocimiento y auditoría en redes. Permite detectar hosts activos, identificar servicios, escanear puertos, realizar fuerza bruta SSH y ejecutar técnicas de OSINT mediante Google Dorks. Todo ello con un enfoque modular y ampliable.
+**RacoonX** es una herramienta ofensiva escrita en **Bash** diseñada para automatizar tareas de reconocimiento y auditoría en redes. Permite detectar hosts activos, identificar servicios, escanear puertos, realizar fuerza bruta a SSH y ejecutar técnicas de OSINT mediante Google Dorks. Todo ello con un enfoque modular y ampliable.
 
 ---
 
