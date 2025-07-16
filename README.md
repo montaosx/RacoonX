@@ -29,4 +29,6 @@
 git clone https://github.com/montaosx/RacoonX.git
 cd RacoonX
 chmod +x racoonx.sh
+chmod +x install_tools.sh
+./install_tools.sh
 ./RacoonX.sh
